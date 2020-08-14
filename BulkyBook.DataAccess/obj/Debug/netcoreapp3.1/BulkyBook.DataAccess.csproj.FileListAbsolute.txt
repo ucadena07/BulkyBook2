@@ -11,3 +11,4 @@ C:\Users\ucadena07\Documents\MVC\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcor
 C:\Users\ucadena07\Documents\MVC\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CopyComplete
 C:\Users\ucadena07\Documents\MVC\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
 C:\Users\ucadena07\Documents\MVC\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+C:\Users\ucadena07\Documents\MVC\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
